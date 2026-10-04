@@ -1,0 +1,5 @@
+-- =====================================================
+-- Föy 01 / Görev 2 — kitaplar tablosu (DDL)
+-- CREATE TABLE komutunuzu bu dosyaya yazın.
+-- Beklenen sütunlar için föydeki tabloya bakın.
+-- =====================================================

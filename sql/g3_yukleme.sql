@@ -1,0 +1,5 @@
+-- =====================================================
+-- Föy 01 / Görev 3 — CSV'den veri yükleme
+-- COPY komutunuzu ve doğrulama sorgusunu bu dosyaya yazın.
+-- Doğrulama sorgusunun çıktısını sonuc/g3.txt dosyasına kaydedin.
+-- =====================================================
